@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [abdurrahman.dev](abdurrahman.dev)
 
-- 💬 Ask me about **Front-end, JavaScript, Css, Html**
+- 💬 Ask me about **Vue.js, JavaScript, Css, Html**
 
 - 📫 How to reach me **abdur.caglar@gmail.com**
 
