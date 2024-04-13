@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working with **c#, dotnet, mvc, vue.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdurrahman-dev](https://github.com/abdurrahman-dev)
+- 👨‍💻 All of my projects are available at [abdurrahman-dev](https://github.com/abdurrahman-dev)
 
-- 📝 I regularly write articles on [https://abdurrahman.dev](abdurrahman.dev)
+- 📝 I regularly write articles on [abdurrahman.dev](https://abdurrahman.dev)
 
 - 💬 Ask me about **Vue.js, JavaScript, Css, Html**
 
 - 📫 How to reach me **abdur.caglar@gmail.com**
 
-- 📄 Know about my experiences [https://abdurrahman.dev](abdurrahman.dev)
+- 📄 Know about my experiences [abdurrahman.dev](https://abdurrahman.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
